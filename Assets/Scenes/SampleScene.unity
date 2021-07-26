@@ -167,6 +167,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ballRigidbody: {fileID: 1866085162}
+  springJoint2D: {fileID: 1866085166}
+  detachDelay: 0.2
 --- !u!1 &305556400
 GameObject:
   m_ObjectHideFlags: 0
